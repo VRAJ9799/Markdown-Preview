@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3207b653-3461-4b50-9bea-25471e8e4128/deploy-status)](https://app.netlify.com/sites/vraj-markdown-preview/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
